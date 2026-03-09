@@ -12,7 +12,7 @@ My personal dotfiles for Ubuntu with GNOME desktop.
 | `ghostty/` | Ghostty terminal config |
 | `starship/` | Starship prompt config |
 | `git/` | Git global config |
-| `ssh/` | SSH config (no keys) |
+| `ssh/` | SSH config  |
 
 ## Installation
 
