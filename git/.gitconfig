@@ -1,0 +1,14 @@
+[user]
+	name = Syed Fazil
+	email = syedfazil539@gmail.com
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[push]
+	authSetupRemote = true
+	autoSetupRemote = true
+[init]
+	defaultBranch = main
