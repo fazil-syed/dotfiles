@@ -1,3 +1,8 @@
+--vim.g.loaded_netrw = 1
+--vim.g.loaded_netrwPlugin = 1
+
+vim.opt.termguicolors = true
+
 -- Highlight when yanking (copying) text
 --  Try it with `yap` in normal mode
 --  See `:help vim.hl.on_yank()`
